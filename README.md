@@ -1,6 +1,6 @@
-### Hi 👋, I'm Priyanka Patel 🌀 from India 🇮🇳
+### Hi 👋, I'm Priyanka Patel 🌀 from Canada
 
-🏢 I’m currently working in Saaspect as DevOps Intern
+🏢 I’m currently working in Icare.com as DevOps Engineer
 
 🌱 I’m currently working on Setting up infra using Ansible over AWS
 
